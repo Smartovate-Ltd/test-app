@@ -7,6 +7,6 @@ DATABASE_URL = "postgres://admin:Password123!@localhost:5432/mydb"
 
 
 # 2. Erreur NameError (variable non définie)
-def calculer_remise(prix):
+df calculer_remise(prix):
     total = prix - reduction
-    return total
+    return tota
